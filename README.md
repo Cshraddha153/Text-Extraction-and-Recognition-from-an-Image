@@ -10,3 +10,6 @@
 2. Running two OCR engines: EasyOCR and Keras-OCR.
 3. Drawing bounding boxes and text predictions on images.
 4. Comparing results between both OCR models.
+
+**Output**
+![Uploading text-extraction-and-recognition-from-an-image.png…]()
