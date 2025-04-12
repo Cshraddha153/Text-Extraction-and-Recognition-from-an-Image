@@ -12,4 +12,5 @@
 4. Comparing results between both OCR models.
 
 **Output**
-![Uploading text-extraction-and-recognition-from-an-image.png…]()
+
+![text-extraction-and-recognition-from-an-image](https://github.com/user-attachments/assets/767d8bf9-2d84-4812-a660-c8b1cececdaa)
